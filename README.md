@@ -19,3 +19,9 @@ Gathering resources which can help to learn software
 
 ### Kafka
 - https://www.gentlydownthe.stream/?fbclid=IwAR0Qh6HV7y5rf40b9zI9FRuUhBZ1z_7vERAyxd3V49GBYRH6nxVXJuN3UUk
+
+### Algorithms
+- https://leetcode.com/
+- https://www.hackerrank.com/
+- https://projecteuler.net/
+- https://codeforces.com/
