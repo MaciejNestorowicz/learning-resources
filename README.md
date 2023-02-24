@@ -25,3 +25,13 @@ Gathering resources which can help to learn software
 - https://www.hackerrank.com/
 - https://projecteuler.net/
 - https://codeforces.com/
+
+### Cybersecurity
+- https://tryhackme.com/
+- https://www.hackthebox.com/
+- https://owasp.org/
+- https://attack.mitre.org/
+- https://www.youtube.com/@_JohnHammond/featured
+
+### Flask
+- https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
