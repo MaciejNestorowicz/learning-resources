@@ -28,3 +28,7 @@ Gathering resources which can help to learn software
 - https://www.hackerrank.com/
 - https://projecteuler.net/
 - https://codeforces.com/
+
+### General
+- https://wiki.installgentoo.com/
+- https://wiki.osdev.org/
