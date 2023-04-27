@@ -9,6 +9,9 @@ Gathering resources which can help to learn software
 - https://go.dev/doc/
 - https://gobyexample.com/
 
+### Go testing
+ - https://www.youtube.com/watch?v=8hQG7QlcLBk
+
 ### Go concurrency
 - https://www.storj.io/blog/production-concurrency
 - https://songlh.github.io/paper/go-study.pdf
